@@ -1,2 +1,2 @@
-# Datu-Strukt-ras-projekts
+# Cv.lv datu skrāpētājs
 mājaslapas "CV.lv" datu skrāpētājs
